@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambi 2.0 thing.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="walking0000" x="475" y="0" width="475" height="500" frameX="0" frameY="0" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="walking0001" x="950" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="walking0002" x="1425" y="0" width="475" height="500" frameX="0" frameY="0" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="walking0003" x="950" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="bruh0000" x="1900" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510" />
+	<SubTexture name="jump0000" x="2375" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="jumpdown0000" x="2850" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornidle0000" x="3325" y="0" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="about to0000" x="0" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="about to0001" x="475" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="the funny0000" x="950" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="the funny0001" x="1425" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="done0000" x="1900" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="done0001" x="2375" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornwalking0000" x="2850" y="500" width="475" height="500" frameX="0" frameY="0" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornwalking0001" x="3325" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornwalking0002" x="0" y="1000" width="475" height="500" frameX="0" frameY="0" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornwalking0003" x="3325" y="500" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornjump0000" x="475" y="1000" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+	<SubTexture name="cornjumpdown0001" x="950" y="1000" width="475" height="500" frameX="0" frameY="-10" frameWidth="475" frameHeight="510"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="you can now kill mami in bambi's corn adventure!!! finally.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="1695" height="500" frameX="-19" frameY="-138" frameWidth="1777" frameHeight="932"/>
+	<SubTexture name="walking0000" x="1695" y="0" width="1773" height="930" frameX="-1" frameY="10" frameWidth="1777" frameHeight="932"/>
+	<SubTexture name="walking0001" x="0" y="930" width="1773" height="930" frameX="-4" frameY="-2" frameWidth="1777" frameHeight="932"/>
+	<SubTexture name="walking0002" x="1773" y="930" width="1775" height="930" frameX="0" frameY="10" frameWidth="1777" frameHeight="932"/>
+	<SubTexture name="walking0003" x="0" y="930" width="1773" height="930" frameX="-4" frameY="-2" frameWidth="1777" frameHeight="932"/>
+	<SubTexture name="jump0000" x="0" y="1860" width="1695" height="700" frameX="-19" frameY="-138" frameWidth="1777" frameHeight="932"/>
+	<SubTexture name="jumpdown0001" x="1695" y="1860" width="1695" height="700" frameX="-19" frameY="-138" frameWidth="1777" frameHeight="932"/>
+</TextureAtlas>
